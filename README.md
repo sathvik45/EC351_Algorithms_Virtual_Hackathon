@@ -29,7 +29,7 @@ Its one of the important applications in image processing . Sorting the cats bas
 
 But to find the age , we need to use ML algorithms to train the model which can identify the age of the cat . Here we implemented using the background color . We have taken all the images with same shape with different pixel values i.e in a picture where a kitten is present will have more background than a picture of an adult cat . With this logic we sorted the cats based on their ages.
 
-Check out the code: [Here](https://github.com/P-Chandana/EC351_Algorithms_Virtual_Hackathon/blob/main/age.py)
+Check out the code: [Here](https://github.com/sathvik45/EC351_Algorithms_Virtual_Hackathon/blob/main/age.py)
 
 
 
